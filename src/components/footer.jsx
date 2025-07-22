@@ -7,7 +7,7 @@ function Footer() {
                 
                 <div className="flex justify-center items-center mb-4">
                     <p className="text-lg">
-                        Made by Haaziq with
+                        Made by Anas with
                     </p>
                     <FaHeart className="text-red-500 mx-2 animate-pulse" size={20} />
                 </div>
