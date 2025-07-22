@@ -17,7 +17,7 @@ function Footer() {
                 </p>
 
                 <div className="flex justify-center space-x-6 mb-6">
-                    <a href="https://github.com/HAAZIQ-ALI" target="_blank" rel="noopener noreferrer" className="text-[#4B4B4B] hover:text-[#6B46C1] transform hover:scale-110 transition-transform duration-200">
+                    <a href="https://github.com/AnasAfroz" target="_blank" rel="noopener noreferrer" className="text-[#4B4B4B] hover:text-[#6B46C1] transform hover:scale-110 transition-transform duration-200">
                         <FaGithub size={24} />
                     </a>
                     
@@ -25,7 +25,7 @@ function Footer() {
 
                 <div className="border-t border-gray-300 pt-4">
                     <p className="text-sm">
-                        &copy; {new Date().getFullYear()} Haaziq . All Rights Reserved.
+                        &copy; {new Date().getFullYear()} Anas . All Rights Reserved.
                     </p>
                     <p className="text-xs mt-1">
                         - 22nd July
